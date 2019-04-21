@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "为啥写博客"
+title:  "开篇"
 date:   Apr 20, 2019
 categories: jekyll update
 ---

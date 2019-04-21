@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+  Software Engineer
+  
+  love music and traveling
+<br>
 
-### More Information
+### Experience
 
-A place to include any other types of information that you'd like to include about yourself.
+  * 2014.09 - 2018.06  cs  华南师范大学
+  * 2018.05 - now back-end engineer  美团点评
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[15217299275@163.com](mailto:15217299275@163.com)
