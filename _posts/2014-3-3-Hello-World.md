@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+date:  "Apr 20, 2019"
 categories: jekyll first
 ---
 
