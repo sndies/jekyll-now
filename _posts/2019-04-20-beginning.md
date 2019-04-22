@@ -8,9 +8,6 @@ categories: jekyll update
 
 ---
 
-<br/>
-<br/>
-
 #### 1.工作后的事儿
 
 18年毕业后开始工作，公司有wiki文化，学会了写wiki ....

@@ -57,6 +57,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  color: $gray;
 }
 
 h4 {
@@ -66,6 +67,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-size:18px;
 }
 
 a {
@@ -254,10 +256,10 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 1px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 16px;
     font-style: italic;
   }
 

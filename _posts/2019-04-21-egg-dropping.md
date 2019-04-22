@@ -8,9 +8,6 @@ categories: jekyll update
 
 ---
 
-<br/>
-<br/>
-
 #### · 要求说明
 
   输入： n个鸡蛋，k层楼， 考虑最糟糕的情况   
@@ -31,7 +28,7 @@ categories: jekyll update
   
 <br/>
 
-#### · 递归解法
+### · 递归解法
 
 ```java
 public class GFG {  
@@ -63,7 +60,7 @@ public class GFG {
 
 <br>
 
-#### · dp解法
+### · dp解法
 
 ```java
 class EggDrop { 
