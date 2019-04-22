@@ -9,7 +9,7 @@ categories: jekyll update
 ---
 
 
-### 概念
+### · 概念
   
   中断本质上是一种特殊的电信号，硬件设备生成中断的时候并不考虑与处理器的时钟同步
   
@@ -19,7 +19,7 @@ categories: jekyll update
   
 <br/>
 
-### 组成
+### · 组成
   
   一般把中断处理切为两个部分：上半部和下半部，上半部只做有严格时限的工作。
   
@@ -31,7 +31,7 @@ categories: jekyll update
   
 <br/>
 
-### 中断上下文
+### · 中断上下文
   
 > 中断上下文不能睡眠
   
@@ -41,12 +41,12 @@ categories: jekyll update
   
   
   图：截自<<linux内核设计与实现>>
-    
+
   ![中断的执行链路](https://sndies.github.io/images/interrupt-chain.png)
 
 <br/>
 
-### 中断控制
+### · 中断控制
   
   禁止中断可以确保某个中断处理程序不会抢占当前的代码，还可以禁止内核抢占。
   
