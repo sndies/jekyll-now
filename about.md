@@ -7,6 +7,8 @@ permalink: /about/
   Software Engineer
   
   love music and traveling
+  
+
 <br>
 
 ### Experience

@@ -40,7 +40,9 @@ categories: jekyll update
   为了应对栈大小的减少，中断处理程序用了自己的栈，大小一页。
   
   
-  图：截自linux kernel design and implement
+  图：截自<<linux内核设计与实现>>
+    
+  ![中断的执行链路](https://sndies.github.io/images/interrupt-chain.png)
 
 <br/>
 
